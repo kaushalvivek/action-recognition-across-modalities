@@ -1,0 +1,4 @@
+Skeleton Accuracy Mean : 54.12
+Skeleton Accuracy Median : 53.7
+Avatar Accuracy Mean : 86.58
+Avatar Accuracy Median : 88.89

@@ -1,0 +1,10 @@
+Skeleton Normalcy: 
+1.8360699049338096e-05
+\Avatar Normalcy: 
+7.000439790692281e-12
+
+Wilcoxon p-value: 
+1.202495739037307e-22
+
+T-test p-value: 
+7.062505647299364e-55
